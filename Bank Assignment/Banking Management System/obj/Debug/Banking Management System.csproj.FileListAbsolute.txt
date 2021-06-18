@@ -1,0 +1,15 @@
+F:\C# Code\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe.config
+F:\C# Code\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe
+F:\C# Code\Banking Management System\Banking Management System\bin\Debug\Banking Management System.pdb
+F:\C# Code\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csprojResolveAssemblyReference.cache
+F:\C# Code\Banking Management System\Banking Management System\obj\Debug\Banking Management System.exe
+F:\C# Code\Banking Management System\Banking Management System\obj\Debug\Banking Management System.pdb
+F:\C# Code\Bank Assignment\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe.config
+F:\C# Code\Bank Assignment\Banking Management System\Banking Management System\obj\Debug\Banking Management System.exe
+F:\C# Code\Bank Assignment\Banking Management System\Banking Management System\obj\Debug\Banking Management System.pdb
+F:\C# Code\Bank Assignment\Banking Management System\Banking Management System\bin\Debug\Banking Management System.exe
+F:\C# Code\Bank Assignment\Banking Management System\Banking Management System\bin\Debug\Banking Management System.pdb
+F:\C# Code\Bank Assignment\Banking Management System\Banking Management System\obj\Debug\Banking Management System.csprojResolveAssemblyReference.cache
+F:\C# Code\Bank Assignment\Banking Management System\bin\Debug\Banking Management System.exe.config
+F:\C# Code\Bank Assignment\Banking Management System\obj\Debug\Banking Management System.exe
+F:\C# Code\Bank Assignment\Banking Management System\obj\Debug\Banking Management System.pdb
