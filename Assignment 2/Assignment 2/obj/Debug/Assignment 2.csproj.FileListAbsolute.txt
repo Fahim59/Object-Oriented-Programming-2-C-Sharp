@@ -1,0 +1,6 @@
+F:\C# Code\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+F:\C# Code\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+F:\C# Code\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+F:\C# Code\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+F:\C# Code\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+F:\C# Code\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
