@@ -1,0 +1,5 @@
+F:\C# Code\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+F:\C# Code\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+F:\C# Code\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+F:\C# Code\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+F:\C# Code\ReverseString\ReverseString\obj\Debug\ReverseString.pdb

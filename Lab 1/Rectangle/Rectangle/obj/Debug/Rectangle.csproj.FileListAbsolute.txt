@@ -1,0 +1,5 @@
+F:\C# Code\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+F:\C# Code\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+F:\C# Code\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+F:\C# Code\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+F:\C# Code\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
