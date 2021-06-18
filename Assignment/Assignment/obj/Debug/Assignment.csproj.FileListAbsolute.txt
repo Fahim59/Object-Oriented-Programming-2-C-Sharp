@@ -1,0 +1,9 @@
+F:\C# Code\Assignment\Assignment\bin\Debug\Assignment.exe.config
+F:\C# Code\Assignment\Assignment\bin\Debug\Assignment.exe
+F:\C# Code\Assignment\Assignment\bin\Debug\Assignment.pdb
+F:\C# Code\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+F:\C# Code\Assignment\Assignment\obj\Debug\Assignment.Form1.resources
+F:\C# Code\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+F:\C# Code\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+F:\C# Code\Assignment\Assignment\obj\Debug\Assignment.exe
+F:\C# Code\Assignment\Assignment\obj\Debug\Assignment.pdb
