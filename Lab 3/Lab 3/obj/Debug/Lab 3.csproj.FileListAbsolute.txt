@@ -1,0 +1,6 @@
+F:\C# Code\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+F:\C# Code\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+F:\C# Code\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+F:\C# Code\Lab 3\Lab 3\obj\Debug\Lab 3.csprojResolveAssemblyReference.cache
+F:\C# Code\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+F:\C# Code\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
