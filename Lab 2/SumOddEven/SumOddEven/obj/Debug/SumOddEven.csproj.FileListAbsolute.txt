@@ -1,0 +1,6 @@
+F:\C# Code\SumOddEven\SumOddEven\bin\Debug\SumOddEven.exe.config
+F:\C# Code\SumOddEven\SumOddEven\bin\Debug\SumOddEven.exe
+F:\C# Code\SumOddEven\SumOddEven\bin\Debug\SumOddEven.pdb
+F:\C# Code\SumOddEven\SumOddEven\obj\Debug\SumOddEven.csprojResolveAssemblyReference.cache
+F:\C# Code\SumOddEven\SumOddEven\obj\Debug\SumOddEven.exe
+F:\C# Code\SumOddEven\SumOddEven\obj\Debug\SumOddEven.pdb

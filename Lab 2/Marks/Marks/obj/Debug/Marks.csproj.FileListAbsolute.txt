@@ -1,0 +1,5 @@
+F:\C# Code\Marks\Marks\bin\Debug\Marks.exe.config
+F:\C# Code\Marks\Marks\bin\Debug\Marks.exe
+F:\C# Code\Marks\Marks\bin\Debug\Marks.pdb
+F:\C# Code\Marks\Marks\obj\Debug\Marks.exe
+F:\C# Code\Marks\Marks\obj\Debug\Marks.pdb

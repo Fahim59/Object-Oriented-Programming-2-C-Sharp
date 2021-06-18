@@ -1,0 +1,6 @@
+F:\C# Code\BinaryPattern\BinaryPattern\bin\Debug\BinaryPattern.exe.config
+F:\C# Code\BinaryPattern\BinaryPattern\obj\Debug\BinaryPattern.csprojResolveAssemblyReference.cache
+F:\C# Code\BinaryPattern\BinaryPattern\bin\Debug\BinaryPattern.exe
+F:\C# Code\BinaryPattern\BinaryPattern\bin\Debug\BinaryPattern.pdb
+F:\C# Code\BinaryPattern\BinaryPattern\obj\Debug\BinaryPattern.exe
+F:\C# Code\BinaryPattern\BinaryPattern\obj\Debug\BinaryPattern.pdb

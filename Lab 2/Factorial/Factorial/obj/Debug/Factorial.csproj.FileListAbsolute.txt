@@ -1,0 +1,5 @@
+F:\C# Code\Factorial\Factorial\bin\Debug\Factorial.exe.config
+F:\C# Code\Factorial\Factorial\bin\Debug\Factorial.exe
+F:\C# Code\Factorial\Factorial\bin\Debug\Factorial.pdb
+F:\C# Code\Factorial\Factorial\obj\Debug\Factorial.exe
+F:\C# Code\Factorial\Factorial\obj\Debug\Factorial.pdb

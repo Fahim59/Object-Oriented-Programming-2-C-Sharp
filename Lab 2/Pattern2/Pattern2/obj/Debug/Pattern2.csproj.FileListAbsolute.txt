@@ -1,0 +1,5 @@
+F:\C# Code\Pattern2\Pattern2\bin\Debug\Pattern2.exe.config
+F:\C# Code\Pattern2\Pattern2\bin\Debug\Pattern2.exe
+F:\C# Code\Pattern2\Pattern2\bin\Debug\Pattern2.pdb
+F:\C# Code\Pattern2\Pattern2\obj\Debug\Pattern2.exe
+F:\C# Code\Pattern2\Pattern2\obj\Debug\Pattern2.pdb

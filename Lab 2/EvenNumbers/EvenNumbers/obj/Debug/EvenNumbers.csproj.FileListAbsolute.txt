@@ -1,0 +1,6 @@
+F:\C# Code\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe.config
+F:\C# Code\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe
+F:\C# Code\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.pdb
+F:\C# Code\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.csprojResolveAssemblyReference.cache
+F:\C# Code\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.exe
+F:\C# Code\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.pdb
