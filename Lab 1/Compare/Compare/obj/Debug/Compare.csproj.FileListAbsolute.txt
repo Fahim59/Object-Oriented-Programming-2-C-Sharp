@@ -1,0 +1,11 @@
+F:\C# Code\Compare\Compare\bin\Debug\Compare.exe.config
+F:\C# Code\Compare\Compare\bin\Debug\Compare.exe
+F:\C# Code\Compare\Compare\bin\Debug\Compare.pdb
+F:\C# Code\Compare\Compare\obj\Debug\Compare.exe
+F:\C# Code\Compare\Compare\obj\Debug\Compare.pdb
+F:\C# Code\Lab 1\Compare\Compare\bin\Debug\Compare.exe.config
+F:\C# Code\Lab 1\Compare\Compare\obj\Debug\Compare.exe
+F:\C# Code\Lab 1\Compare\Compare\obj\Debug\Compare.pdb
+F:\C# Code\Lab 1\Compare\Compare\bin\Debug\Compare.exe
+F:\C# Code\Lab 1\Compare\Compare\bin\Debug\Compare.pdb
+F:\C# Code\Lab 1\Compare\Compare\obj\Debug\Compare.csprojResolveAssemblyReference.cache

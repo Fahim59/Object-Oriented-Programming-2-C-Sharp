@@ -1,0 +1,12 @@
+F:\C# Code\Check\Check\bin\Debug\Check.exe.config
+F:\C# Code\Check\Check\bin\Debug\Check.exe
+F:\C# Code\Check\Check\bin\Debug\Check.pdb
+F:\C# Code\Check\Check\obj\Debug\Check.exe
+F:\C# Code\Check\Check\obj\Debug\Check.pdb
+F:\C# Code\Lab 1\Check\Check\bin\Debug\Check.exe.config
+F:\C# Code\Lab 1\Check\Check\bin\Debug\Check.exe
+F:\C# Code\Lab 1\Check\Check\bin\Debug\Check.pdb
+F:\C# Code\Lab 1\Check\Check\obj\Debug\Check.csprojAssemblyReference.cache
+F:\C# Code\Lab 1\Check\Check\obj\Debug\Check.csproj.CoreCompileInputs.cache
+F:\C# Code\Lab 1\Check\Check\obj\Debug\Check.exe
+F:\C# Code\Lab 1\Check\Check\obj\Debug\Check.pdb

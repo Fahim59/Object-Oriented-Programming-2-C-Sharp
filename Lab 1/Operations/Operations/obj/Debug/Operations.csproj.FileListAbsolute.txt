@@ -1,0 +1,6 @@
+F:\C# Code\Operations\Operations\bin\Debug\Operations.exe.config
+F:\C# Code\Operations\Operations\bin\Debug\Operations.exe
+F:\C# Code\Operations\Operations\bin\Debug\Operations.pdb
+F:\C# Code\Operations\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
+F:\C# Code\Operations\Operations\obj\Debug\Operations.exe
+F:\C# Code\Operations\Operations\obj\Debug\Operations.pdb
